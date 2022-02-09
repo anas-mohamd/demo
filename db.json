@@ -1,14 +1,35 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+        {
+          id: 5928101,
+          category: 'animal welfare',
+          title: 'أهلا بك قائد أنس اليوم يجب عليك إتمام دروس البرمجة',
+          description: 'Find your new feline friend at this event.',
+          location: 'Meow Town',
+          date: 'february 9, 2022',
+          time: '12:00',
+          petsAllowed: true,
+          organizer: 'Kat Laydee',
+        },
+        {
+          id: 4582797,
+          category: 'food',
+          title: 'مرحباَ قائدة سارة لا تنسي مشروع اليوم',
+          description: 'Join us as we tend to the community edible plants.',
+          location: 'Flora City',
+          date: 'february 9, 2022',
+          time: '03:00',
+          petsAllowed: true,
+          organizer: 'Fern Pollin',
+        },
+        {
+          id: 8419988,
+          category: 'sustainability',
+          title: 'مرحبا قائد أنس اليوم هو موعد نشر العلامات الأولية',
+          description: 'Help pick up trash along the shore.',
+          location: 'Playa Del Carmen',
+          date: 'July 22, 2022',
+          time: '11:00',
+          petsAllowed: false,
+          organizer: 'Carey Wales',
+        },
+      ],
